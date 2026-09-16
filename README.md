@@ -29,11 +29,11 @@
 
 ```python
 class AyushBRaj:
-    role      = "AI / ML Developer"
+    role      = "AI / ML Developer | Software Engineer"
     education = "MCA @ MACE, KTU  —  CGPA 8.79"
-    open_to     = ["Deep Learning", "Computer Vision",
-                 "Data Science", "Web Development"]
-    focus   = ["AI/ML Roles", "Data Science", "Full-Stack"]
+    interests = ["Deep Learning", "Computer Vision",
+                 "Data Science", "Web Development",
+                 "AI/ML Roles", "Data Science", "Full-Stack"]
 
     def ping(self):
         return "Let's build something useful together!"
