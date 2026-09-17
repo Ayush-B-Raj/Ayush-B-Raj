@@ -127,22 +127,13 @@ A React frontend on a Node.js backend that makes browsing events, booking spots,
 <!-- ===== ANIMATED STATS ===== -->
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayush-B-Raj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=764ba2&icon_color=f093fb&count_private=true" alt="stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-B-Raj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=764ba2" alt="langs">
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-B-Raj&theme=radical&hide_border=true&background=0D1117&ring=764ba2&fire=f093fb" alt="streak">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush-B-Raj&theme=react-dark&hide_border=true&bg_color=0D1117&color=f093fb&line=764ba2&point=ffffff&area=true" width="95%" alt="activity graph">
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ayush-B-Raj&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies">
-</p>
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
 <p align="center">
